@@ -1,0 +1,2 @@
+font-family: 'Nova Square', sans-serif;  //Primary Font
+font-family: 'Varela Round', sans-serif; //Secondary Font
